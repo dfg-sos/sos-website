@@ -7,7 +7,7 @@
       projects:
         - name: se1
         - name: se2
-          role: pi
+          role: PI
       description: |
         - Professor & Chair of Software Engineering, JMU Würzburg
         - PI [**SE2**](/research/se2/) and [**RU Coordination**](/)
@@ -16,9 +16,11 @@
       image: /img/people/claudia_kuenzer.jpg
       projects:
           - name: eo1
-            role: pi
+            role: PI
           - name: eo2
-            role: pi
+            role: PI
+          - name: geb
+            role: Head
       description: |
         - Head of Department *Land Surface Dynamics*, German Aerospace Center DLR
         - Professor for Remote Sensing, JMU Würzburg
@@ -30,7 +32,7 @@
       image: /img/people/martin_wikelski.jpeg
       projects:
         - name: ce1
-          role: pi
+          role: PI
       description: |
           - Director, Max Planck Institute of Animal Behavior MPI AB
           - PI [**CE1**](/research/ce1)  
@@ -39,7 +41,7 @@
       image: /img/people/nikolas_herbst.jpg
       projects:
         - name: se1
-          role: pi
+          role: PI
         - name: se2
       description: |
           - Postdoctoral Researcher, Chair of Software-Engineering, JMU Würzburg
@@ -49,7 +51,9 @@
       image: /img/people/tobias_hossfeld.jpg
       projects:
         - name: cn1
-          role: pi
+          role: PI
+        - name: geb
+          role: Head
       description: |
           - Professor & Chair of Communication Networks, JMU Würzburg
           - PI [**CN1**](/research/cn1)
@@ -58,7 +62,7 @@
       image: /img/people/kranzlmueller.jpg
       projects:
         - name: hpc1
-          role: pi
+          role: PI
       description: |
           - Chair of the Board of Directors, Leibniz Supercomputing Centre LRZ
           - Professor at the LMU, Munich Network Management MNN team
@@ -71,6 +75,7 @@
       image: /img/people/geissler.jpg
       projects:
         - name: cn1
+        - name: geb
       description: |
         - Postdoctoral Researcher, Chair of Communication Networks, JMU Würzburg
         - Co-Applicant [**CN1**](/research/cn1)    
@@ -97,6 +102,7 @@
       image: /img/people/viktoria_pauw.jpg
       projects:
         - name: hpc1
+        - name: geb
       description: |
         - Team Lead *Environmental Computing*, Leibniz Supercomputing Centre LRZ
         - Member [**HPC1**](/research/hpc1)  
@@ -114,6 +120,7 @@
       projects:
         - name: se1
         - name: se2
+        - name: geb
       description: |
         - Doctoral Researcher, Chair of Software Engineering, JMU Würzburg
         - Member [**SE1**](/research/se1) & [**SE2**](/research/se2)
@@ -197,6 +204,7 @@
       image: /img/people/Scharf_Anne.jpg
       projects:
         - name: ce1
+        - name: geb
       description: |
           - Postdoctoral Researcher *Animal-Environment Interactions Lab*, Max Planck Institute for Animal Behavior MPI AB
           - Co-applicant [**CE1**](/research/ce1)
@@ -213,6 +221,7 @@
       image: /img/people/sarah_leibrock.jpeg
       projects:
         - name: eo2
+        - name: geb
       description: |
           - Doctoral Researcher, JMU Würzburg & German Aerospace Center DLR
           - Member [**EO2**](/research/eo2/)
