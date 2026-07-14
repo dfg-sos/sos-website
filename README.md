@@ -3,7 +3,8 @@ based on the [Jekyll bulma-clean-theme](https://github.com/chrisrhymes/bulma-cle
 ### Development
 #### Install Dependencies
 ```
-bundle install --path .bundle/
+bundle config set --local path .bundle/
+bundle install
 ```
 #### Start the server with livereload
 ```
