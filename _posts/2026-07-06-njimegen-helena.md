@@ -9,6 +9,8 @@ hero_darken: true
 tags: meeting
 hide_share_buttons: true
 category: blog
+summary: "In the first week of July, I visited project partners in the Netherlands to strengthen collaborations within the DFG SOS project and exchange ideas on animal movement ecology and Earth observation. At Radboud University in Nijmegen, I presented my PhD research and discussed movement-analysis methods with researchers working on GPS-tracked bird species. The visit continued with fieldwork at the Dutch Wadden Sea, where I joined the Birdeyes project in studying black-tailed godwits and spoonbills through ringing, monitoring, and GPS tracking. The trip provided valuable scientific exchange and inspired new perspectives on combining bird-based and satellite-based observations to better understand environmental change.
+"
 ---
 
 In the first week of July, I visited our project partner Andrea Kölzsch at the University Radboud in Njimegen (Netherlands). I was warmly welcomed by her family and headed to the University together with her on Monday. Beside in person discussion about the DFG SOS vision I was happy to give a talk about my PhD project (EO1 in DFG SOS). Additionally, I could discuss the method I am working on with Kees Schreven, a post-doc in Andrea’s research group. Kees Schreven has experience in using movement methods related to huntable geese species in the northern Europe.
