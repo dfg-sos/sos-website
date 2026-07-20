@@ -4,8 +4,8 @@ title: Research Areas & Subprojects
 subtitle: 
 ---
 # Summary
-The aim of this Research Unit is to develop a framework for **serverless scientific computing** and engineering
-for **Earth Observation (EO) and sustainability** research (*SOS Framework*). The goal is to boost productivity and
+The aim of this Research Unit is to develop a framework for **serverless scientific computing** and **engineering**
+for **Earth Observation** (EO) and **sustainability** research (*SOS Framework*). The goal is to boost productivity and
 support for interdisciplinary research by providing the foundations for building specialized platforms for serverless
 scientific computing and engineering, offering semantically enriched domain-specific components as building blocks
 for applications. To this end, as opposed to developing yet another workflow platform, we will work on new
