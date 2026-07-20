@@ -3,7 +3,7 @@ layout: post
 author: Helena Wehner
 title: "Scientific exchange in the Netherlands – Meeting spoonbills"
 date: 2026-07-06
-image: /img/posts/2026-01-12-helena-br1.png
+image: /img/posts/2026-07-06-helena-njimegen/picture_1.jpg
 hero_height: is-small
 hero_darken: true
 tags: meeting
