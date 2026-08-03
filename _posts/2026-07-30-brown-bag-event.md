@@ -30,7 +30,7 @@ The **DFG Research Unit SOS (Serverless Scientific Computing for Earth Observati
 **Dr. Hilary Bergsieker** is an Associate Professor of Psychology at the University of Waterloo, where she leads the Diversity and Intergroup Relations Lab and serves as the department's Program Area Lead for Equity, Diversity, Inclusion, and Anti-Racism. She earned her B.A. from Stanford University and her Ph.D. in Psychology and Social Policy from Princeton University. Her research focuses on trust formation and maintenance in diverse groups, social network analysis, and evidence-based approaches to reducing bias. Dr. Bergsieker was named a **Rising Star** by the Association for Psychological Science and received the **Rogers' Woman of the Year** award for excellence in STEM (Science, Technology, Engineering, and Mathematics). As a Fellow of the **Engendering Success in STEM** research consortium, she collaborates with industry partners to develop interventions that promote the inclusion and success of women and other underrepresented groups in STEM.
 
 
-![Dr. Hilary Bergsieker, Associate Professor of Psychology, University of Waterloo (Canada).](https://uwaterloo.ca/psychology/sites/default/files/uploads/images/hilary_2015.jpg)
+![Dr. Hilary Bergsieker, Associate Professor of Psychology, University of Waterloo (Canada).](/img/posts/hilary_2015.jpg)
 
 ## Background: DFG SOS Research Unit
 
