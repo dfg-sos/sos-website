@@ -3,7 +3,7 @@ layout: post
 author: Tobias Hossfeld
 title: "Public Brown-Bag Event on Unconscious Bias with Dr. Hilary Bergsieker"
 date: 2026-07-30
-image: https://uwaterloo.ca/psychology/sites/default/files/uploads/images/hilary_2015.jpg
+image: /img/posts/hilary_2015.jpg
 hero_height: is-small
 hero_darken: true
 tags: meeting
