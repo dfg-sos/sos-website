@@ -25,6 +25,17 @@ Join us for a university-wide brown-bag event with **Dr. Hilary Bergsieker**, fe
 
 The **DFG Research Unit SOS (Serverless Scientific Computing for Earth Observation and Sustainability)** brings together researchers from multiple disciplines to develop novel methods for scalable, reproducible, and sustainable scientific computing. As part of our commitment to gender equality and diversity, we organize this brown-bag event to provide an informal forum for discussion, experience sharing, and awareness of diversity-related topics.
 
+## Program
+**11:45–12:15 | Welcome & Networking**  
+Meet the DFG Research Unit SOS over snacks and drinks and learn more about its research.
+
+**12:15–12:20 | Welcome**  
+Prof. Dr. Anja Schlömerkemper, Vice-President for Equal Opportunity, Career Planning and Sustainability
+
+**12:20–13:30 | Keynote & Discussion**  
+Dr. Hilary Bergsieker
+*Beyond Representation: How Friendship Networks and Gender Stereotypes Shape STEM Career Trajectories of Girls and Women*
+
 ## Beyond Representation: How Friendship Networks and Gender Stereotypes Shape STEM Career Trajectories of Girls and Women
 ### Hilary Bergsieker (University of Waterloo) & Emily Cyr (York University)
 Friendship networks in male-dominated educational and professional STEM settings often exclude girls and women. Gender-based social exclusion can arise from stereotypes, and in turn limit girls' and women's long-term success in STEM spaces. Here, we share results from a series of psychology studies on informal friendship networks in STEM camps, courses, and companies. First, in a field study of 1330 boys and girls attending STEM-focused summer camps, boys who had more positive (less gender-stereotypical) beliefs about girls' STEM abilities were more likely than boys with negative beliefs to be nominated by girls as friends. For girls, being more socially included (particularly by male peers) was associated with stronger STEM intentions, a connection mediated by greater subjective belonging. Next, in experiments with 1065 university students enrolled in male-dominated STEM majors, women (but not men) anticipated repetitional penalties if they associated with a woman who expressed stereotypically feminine interests. Women whose social network positions gave them less brokerage (i.e., reduced ability to manage information flows between unconnected friends) were less willing to befriend and socially integrate other women with steroetypically feminine (vs. STEM-related) interests. Finally, in field research with 1247 full-time employees working at North American STEM organizations, men who held stronger STEM = Male implicit associations reported less often choosing to socialize with their female teammates. In turn, for women at these same organizations, receiving fewer social ties from male teammates in turn was associated with worse workplace outcomes: lower engagement, self-efficacy, and feelings of fit, plus greater concerns about being judged on the basis of gender at work. Implications for advancing gender inclusion in STEM fields are discussed.
