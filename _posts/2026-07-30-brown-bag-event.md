@@ -9,7 +9,7 @@ hero_darken: true
 tags: meeting
 hide_share_buttons: true
 category: blog
-summary: "Join us for a university-wide brown-bag event with Dr. Hilary Bergsieker, featuring a talk on unconscious bias followed by an interactive discussion and Q&A session. All students, researchers, staff, and interested members of the public are warmly welcome. The Public Brown-Bag Event on Unconscious Bias will take place on October 8, 2026, from 12-14 h in Room 0.001 of the Central Lecture Hall and Seminar Building (ZHSG/Z6) on the Hubland South Campus of the University of Würzburg. The event will feature a lecture by Dr. Hilary Bergsieker, Associate Professor of Psychology at the University of Waterloo, Canada, on unconscious bias, followed by an interactive discussion and Q&A session. The event is open to all students, researchers, staff, and interested members of the public.
+summary: "Join us for a university-wide brown-bag event with Dr. Hilary Bergsieker, featuring a talk on unconscious bias followed by an interactive discussion and Q&A session. All students, researchers, staff, and interested members of the public are warmly welcome. The Public Brown-Bag Event on Unconscious Bias will take place on October 8, 2026, from 12-13:30 h in Room 0.001 of the Central Lecture Hall and Seminar Building (ZHSG/Z6) on the Hubland South Campus of the University of Würzburg. The event will feature a lecture by Dr. Hilary Bergsieker, Associate Professor of Psychology at the University of Waterloo, Canada, on unconscious bias, followed by an interactive discussion and Q&A session. The event is open to all students, researchers, staff, and interested members of the public.
 "
 ---
 
@@ -17,7 +17,7 @@ summary: "Join us for a university-wide brown-bag event with Dr. Hilary Bergsiek
 
 Join us for a university-wide brown-bag event with **Dr. Hilary Bergsieker**, featuring a talk on unconscious bias followed by an interactive discussion and Q&A session. All students, researchers, staff, and interested members of the public are warmly welcome.
 
-- **Date:** October 8, 2026, 12:00–14:00
+- **Date:** October 8, 2026, 11:45–13:30
 - **Venue:** Room 0.001, Central Lecture Hall and Seminar Building (ZHSG/Z6), Hubland South Campus, University of Würzburg (near the campus bridge)
 - **Program:** Brown-bag lecture "Beyond Representation: How Friendship Networks and Gender Stereotypes Shape STEM Career Trajectories of Girls and Women" by Dr. Hilary Bergsieker on unconscious bias, followed by a discussion and Q&A session
 - **Speaker:** Dr. Hilary Bergsieker, Associate Professor of Psychology, University of Waterloo, Canada; expert in diversity, inclusion, intergroup relations, and reducing bias in STEM and academic environments
