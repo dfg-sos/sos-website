@@ -56,10 +56,14 @@ scholar:
 scholar_papers:
   bibliography: _bibliography/papers.bib
   style: /_bibliography/ieee.csl
+  sort_by: year
+  order: descending
 
 scholar_talks:
   bibliography: _bibliography/talks.bib
   style: /_bibliography/ieee.csl
+  sort_by: year
+  order: descending
 
 
 sass:
