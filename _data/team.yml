@@ -42,7 +42,6 @@
       projects:
         - name: se1
           role: PI
-        - name: se2
       description: |
           - Postdoctoral Researcher, Chair of Software-Engineering, JMU Würzburg
           - PI [**SE1**](/research/se1)
